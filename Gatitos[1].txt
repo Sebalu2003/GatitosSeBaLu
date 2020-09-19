@@ -1,0 +1,65 @@
+<html>
+<head>
+<title>Gatitos</title>
+</head>
+<body>
+<h1>Los Gatos</h1>
+<a>Contenido</a>
+<ol>
+<li><a href="defi">Definición</a></li>
+<li>Razas</li>
+<li>Cuidados</li>
+<li>Alimentación</li>
+<li>Juegos</li>
+</ol>
+<h2 id="defi">Definición</h2>
+<p>El gato doméstico​​, llamado popularmente gato, y de forma coloquial minino, ​ michino, ​ michi, ​ micho, ​ mizo, ​ miz, ​ morroño​ o morrongo, ​ entre otros nombres, es un mamífero carnívoro de la familia Felidae. Es una subespecie domesticada por la convivencia con el ser humano.</p>
+<h2>Razas</h2>
+<ol>
+<li>Razas Comunes</li>
+<li>Razas Extrañas</li>
+</ol>
+<h3>Razas Comunes</h3>
+<ol>
+<li><a>Persa</a></li>
+<li><a>Siamés</a></li>
+<li><a>Bobtail Americano</a></li>
+<li><a>Azul Ruso</a></li>
+<li><a>Somalí</a></li>
+<li><a>Siberiano</a></li>
+<li><a>Manx</a></li>
+<li><a>Burmés</a></li>
+<li><a>Ragdoll</a></li>
+<li><a>Maine Coon</a></li>
+</ol>
+<h4>Persa</h4>
+<p>Este felino es un ser tranquilo, sedentario, pacífico y muy apegado a su dueño. Por su carácter vive muy cómodo en un piso y tolera bastante bien la soledad. Necesita cuidados específicos: cepillado diario porque su pelaje es largo y los nudos pueden crearse con bastante facilidad. Por otro lado, los ojos lagrimean frecuentemente, por lo que es necesario limpiarlos diariamente con productos específicos.
+
+Recordad que es posible que viviendo en piso la muda sea constante, por lo que no es un gato aconsejable para alérgicos.
+</p>
+<h4>Siamés</h4>
+<p>El siamés es el más extrovertido de los felinos domésticos. No es nada tranquilo y sorprende a cada paso que da, es decir, es impredecible. Necesita mucha atención para sentirse bien, por lo que no lleva bien quedarse solo.
+Es un gato muy delgado, de orejas grandes y ojos azules. Por su pelo corto y suave, no necesita demasiados cepillados.</p>
+<h4>Bobtail Americano</h4>
+<p>Un gato robusto de cola muy corta, un tercio o la mitad de lo común. En su forma de ser destaca por ser amistoso, muy inteligente y juguetón, aunque no llega a resultar demasiado activo. No reclaman mucha atención, pero siempre están dispuestos para unas caricias.</p>
+<h4>Azul Ruso</h4>
+<p>El Azul Ruso es uno de los gatos más admirados por su belleza, su cuerpo esbelto y el color de su pelaje llaman mucho la atención. Además, tiene muy buen carácter: alegre, juguetón y afectuoso. Su punto débil es que no aprecia demasiado a los extraños ni los ruidos y que no acepta la coacción. No necesita demasiados cuidados particulares, simplemente que le cepilles una o dos veces por semana, ya que tiene el pelo corto.</p>
+<h4>Somalí</h4>
+<p>El Gato Somalí es felino ideal: equilibrado, activo pero lo justo, juguetón y de carácter afable con sus congéneres y extraños. si va a tener que para compartir hogar con otras mascotas. Reclama mucha atención pero no llega a ser posesivo. Se adapta a los cambios en la casa y en su entorno, pero mejor que viva en una con jardín. No tolera bien el frío.
+
+En cuanto al físico, su pelaje es semilargo que requiere de un cepillado diario.</p>
+<h4>Siberiano</h4>
+<p>Aunque este gato tiene pinta de rudo es un minino muy sociable y cariñoso. Una raza con una morfología adaptada a las duras inclemencias del tiempo. Tiene el pelo semilargo, tupido e impermeable y su mantenimiento es sencillo, ya que no se suele anudar.</p>
+<h4>Manx</h4>
+<p>Un gato tranquilote, a quien le gusta disfrutar de un ambiente relajado, aunque esconden un gran cazador en su interior. Su mayor y curiosa característica física es que no tiene cola. Cuenta con un pelaje largo que hay que cuidar y mantener higiénico.</p>
+<h4>Burmés</h4>
+<p>Hay dos variedades bien diferenciadas, la inglesa y la americana, con un ancestro común, una gata tonkinesa. Es un minino muy vivaz, cercano, parlanchín, adora la compañía, no soporta la soledad, amigo de los niños… Con lo cuál, no es de extrañar que se le conozca como el “gato perruno”.
+Aunque cuentan con un pelaje largo y sedoso, no necesitan un cuidado continuo.</p>
+<h4>Ragdoll</h4>
+<p>Se ha ganado su nombre a pulso, porque es un gran gato manejable y pausado. bonachón y dócil, es un buen compañero de piso. No es nada ruidoso, de hecho no soporta bien los sonidos fuertes. El mantenimiento de su pelaje requiere cepillado frecuente.</p>
+<h4>Maine Coon</h4>
+<p>Este gran gato de aspecto salvaje es en realidad un ser muy apegado a sus humanos y con mucho gusto por el juego. Robusto y resistente, es capaz de soportar los más duros inviernos.
+
+Es considerada la raza de gatos más grande. Tienen un pelaje largo como el gato persa, aunque no necesita tantos cuidados con éste. </p>
+</body>
+</html>
