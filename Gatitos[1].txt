@@ -6,7 +6,7 @@
 <h1>Los Gatos</h1>
 <a>Contenido</a>
 <ol>
-<li><a href="defi">Definición</a></li>
+<li><a href="#defi">Definición</a></li>
 <li>Razas</li>
 <li>Cuidados</li>
 <li>Alimentación</li>
